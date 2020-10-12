@@ -3,7 +3,12 @@
 <header class="header">
   <div class="logo">
     {{#link 'help_center'}}
-      <img src="{{settings.logo}}" alt="{{t 'home_page' name=help_center.name}}">
+      <div class="flex items-center">
+        <img class="h-6" src="{{settings.logo}}" alt="{{t 'home_page' name=help_center.name}}">
+        <span class="ml-3 text-gray-500 font-medium">
+          Support
+        </span>
+      </div>
     {{/link}}
   </div>
   <div class="nav-wrapper">

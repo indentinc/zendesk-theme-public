@@ -1,6 +1,8 @@
-# Copenhagen Theme by Zendesk
+# Indent Zendesk Theme
 
-The Copenhagen theme is the default Zendesk Guide theme. It is designed to be responsive and accessible.
+[Go to Support &rarr;](https://indent.zendesk.com)
+
+This theme is based on the Copenhagen theme which is the default Zendesk Guide theme. It is designed to be responsive and accessible.
 Learn more about customizing Zendesk Guide [here](https://support.zendesk.com/hc/en-us/sections/206670747).
 
 The Copenhagen theme for Help Center consists of a [set of templates](#templates), [styles](#styles), a Javascript file used mainly for interactions and an [assets folder](#assets).
