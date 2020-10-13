@@ -637,6 +637,9 @@ ul {
 }
 
 /***** Header *****/
+.header-container {
+  box-shadow: 0 2px 6px rgba(0,0,0,0.075);
+}
 .header {
   max-width: 1160px;
   margin: 0 auto;
@@ -3029,7 +3032,6 @@ ul {
 
 /***** My activities *****/
 .my-activities-nav {
-  background-color: darken($background_color, 5%);
   margin-bottom: 20px;
 }
 
@@ -4733,8 +4735,5 @@ html[dir="rtl"] .notification-left-aligned {
 
 .dropdown-chevron-icon {
   vertical-align: middle;
-}
-
-svg {
   display: inline-block;
 }
