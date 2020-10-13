@@ -1,7 +1,7 @@
 {
   "name": "Custom Theme",
   "author": "Indent",
-  "version": "0.1.0",
+  "version": "2.5.0",
   "api_version": 2,
   "default_locale": "en-us",
   "settings": [
